@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+94:FB:B2:FB:42:8C, 2017-10-01 10:00:56, 2017-10-01 10:15:15,  1,  54, WPA2, CCMP TKIP,PSK, -59,     3421,    11313,   0.  0.  0.  0,   7, BSNL_AP, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+FC:3D:93:47:52:10, 2017-10-01 10:00:56, 2017-10-01 10:15:15, -75,    10899, 94:FB:B2:FB:42:8C,
+BC:D1:D3:F9:3B:B2, 2017-10-01 10:00:58, 2017-10-01 10:15:04, -57,      396, 94:FB:B2:FB:42:8C,
+
